@@ -23,7 +23,7 @@ repository               : "natalia-rubio/natalia-rubio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Natalia L. Rubio"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in mechanical engineering at Stanford (NSF Graduate Research Fellow). Research at the intersection of machine learning, reduced-order modeling, and cardiovascular fluid mechanics."
