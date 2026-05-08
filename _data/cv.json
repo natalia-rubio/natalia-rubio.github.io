@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Natalia L. Rubio",
+    "email": "nrubio@stanford.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://natalia-rubio.github.io",
+    "summary": "Currently employed at Stanford University. Ph.D. candidate in mechanical engineering at Stanford (NSF Graduate Research Fellow). Research at the intersection of machine learning, reduced-order modeling, and cardiovascular fluid mechanics.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Stanford, CA",
       "countryCode": "US",
       "region": ""
     },
@@ -16,137 +16,259 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://scholar.google.com/citations?user=fNThFhcAAAAJ"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "natalia-rubio",
+        "url": "https://github.com/natalia-rubio"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "natalialrubio",
+        "url": "https://www.linkedin.com/in/natalialrubio"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "physics-based acceleration of cardiovascular flow simulation &mdash; Stanford University (NSF Graduate Research Fellow",
+      "position": "Hybrid data-driven",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Supervisors: Prof. Alison Marsden, Prof. Eric Darve",
+        "Use ML to predict resistance and inductance for electric circuit surrogates that replace costly 3D finite-element cardiovascular simulations (minutes on a laptop vs. many hours on HPC).",
+        "Train models in JAX, PyTorch, and TensorFlow linking patient-specific vascular geometry to circuit parameters that reproduce high-fidelity 3D behavior; circuit analogs with learned parameters outperform heuristic resistances/inductances by roughly 50% error reduction.",
+        "Apply fluid-mechanics-informed modeling to reduce data needs (model form, non-dimensionalization, geometry discretization, feature selection).",
+        "Automate pipelines for geometry planning, meshing, and svMultiPhysics simulation for synthetic training data.",
+        "Optimize preprocessing, model architecture, and training choices; implement optimization for circuits with nonlinear ML components.",
+        "Maintain the [Vascular Model Repository](https://www.vascularmodel.com/); collaborate on GitHub; mentor junior students; organize [SimVascular](https://simvascular.github.io/) tutorials."
+      ]
+    },
+    {
+      "company": "Summer 2024",
+      "position": "Implementation and comparison of graph neural network architectures &mdash; Pasteur Labs (Simulation Intelligence Intern)",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Supervisor: Marta D&rsquo;Elia, Ph.D.",
+        "Implemented graph-based ML surrogates for unsteady fluid dynamics; ran Azure experiments comparing latent-space approaches for memory and compute."
+      ]
+    },
+    {
+      "company": "Winter 2021",
+      "position": "Variable-order fractional Laplacian for fractional Newtonian gravity &mdash; Stanford University (Ph.D. rotation)",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Supervisor: Prof. Eric Darve",
+        "Implemented a variable-order Riesz-potential method for fractional Poisson problems in MATLAB and Julia."
+      ]
+    },
+    {
+      "company": "2019)",
+      "position": "Corrosion of structural materials in liquid lead-bismuth eutectic (LBE) &mdash; UC Berkeley; Belgian Nuclear Research Centre (2017); Los Alamos National Laboratory (2018",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Supervisor: Prof. Peter Hosemann",
+        "Experiments and electron microscopy for LBE-cooled systems; finite-element advection&ndash;diffusion corrosion model in Python for closed-loop flows."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Stanford University",
+      "area": "Mechanical Engineering (Ph.D. and M.S.)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of California Berkeley",
+      "area": "Mechanical Engineering (B.S.)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Technical areas",
+      "level": "",
+      "keywords": [
+        "Linear algebra",
+        "partial differential equations",
+        "numerical methods",
+        "convex optimization",
+        "machine learning",
+        "uncertainty quantification",
+        "fluid mechanics",
+        "feedback control",
+        "parallel computing"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C++",
+        "MATLAB",
+        "Julia"
+      ]
+    },
+    {
+      "name": "ML frameworks",
+      "level": "",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "JAX"
+      ]
+    },
+    {
+      "name": "Scientific computing",
+      "level": "",
+      "keywords": [
+        "CUDA",
+        "MPI",
+        "OpenMP"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Linux",
+        "Slurm",
+        "Azure"
+      ]
+    },
+    {
+      "name": "Human languages",
+      "level": "",
+      "keywords": [
+        "English (fluent)",
+        "Spanish (proficient)",
+        "French (proficient)",
+        "German (proficient)",
+        "Italian (proficient)"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "On the Fractional Laplacian of Variable Order",
+      "publisher": "Fractional Calculus and Applied Analysis",
+      "releaseDate": "2021-03-01",
+      "website": "",
+      "summary": "Fractional Calculus and Applied Analysis."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Learning Patient-Specific Cardiovascular Simulations With Graph Neural Networks",
+      "publisher": "Computers in Biology and Medicine",
+      "releaseDate": "2023-08-01",
+      "website": "",
+      "summary": "Computers in Biology and Medicine."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Reduced-Order Modeling of Cardiovascular Hemodynamics",
+      "publisher": "Biomechanics of the Human Aorta",
+      "releaseDate": "2024-05-01",
+      "website": "",
+      "summary": "Chapter in Biomechanics of the Human Aorta."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Bifurcation Pressure Loss Model in a Reduced-Order Cardiovascular Flow Model",
+      "publisher": "Computing in Cardiology Conference",
+      "releaseDate": "2024-09-01",
+      "website": "",
+      "summary": "Computing in Cardiology Conference."
+    },
+    {
+      "name": "Hybrid Physics-Based and Data-Driven Modeling of Vascular Bifurcation Pressure Differences",
+      "publisher": "Computers in Biology and Medicine",
+      "releaseDate": "2025-06-01",
+      "website": "",
+      "summary": "Computers in Biology and Medicine."
+    },
+    {
+      "name": "Data-Driven Bifurcation Handling in Physics-Based Reduced-Order Vascular Hemodynamic Models",
+      "publisher": "Computer Methods and Programs in Biomedicine",
+      "releaseDate": "2026-06-01",
+      "website": "",
+      "summary": "Computer Methods and Programs in Biomedicine."
+    },
+    {
+      "name": "Accelerating Patient-Specific Cardiovascular Flow Simulations with Machine Learning-Enhanced Physiologic Reduced Order Models",
+      "publisher": "In preparation",
+      "releaseDate": "2026-12-01",
+      "website": "",
+      "summary": "Manuscript in preparation."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Graph neural networks to predict vascular junction pressure losses for reduced-order cardiovascular modeling",
+      "event": "Computational Fluids Conference (CFC)",
+      "date": "2023-09-01",
+      "location": "",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Data-driven modeling of pressure differentials over vascular junctions",
+      "event": "APS Division of Fluid Dynamics Annual Meeting",
+      "date": "2023-11-19",
+      "location": "",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Conference presentation",
+      "event": "Computing in Cardiology (CINC)",
+      "date": "2024-05-01",
+      "location": "",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Conference presentation",
+      "event": "SIAM NCC",
+      "date": "2024-06-01",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Conference presentation",
+      "event": "World Congress on Computational Mechanics (WCCM)",
+      "date": "2024-07-28",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Conference presentation",
+      "event": "Computational Methods in Bone and Joint Biomechanics (CMBBE)",
+      "date": "2025-06-01",
+      "location": "",
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
