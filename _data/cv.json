@@ -179,49 +179,49 @@
       "name": "On the Fractional Laplacian of Variable Order",
       "publisher": "Fractional Calculus and Applied Analysis",
       "releaseDate": "2021-03-01",
-      "website": "",
+      "website": "https://link.springer.com/article/10.1007/s13540-021-00003-1",
       "summary": "Fractional Calculus and Applied Analysis."
     },
     {
       "name": "Learning Patient-Specific Cardiovascular Simulations With Graph Neural Networks",
       "publisher": "Computers in Biology and Medicine",
       "releaseDate": "2023-08-01",
-      "website": "",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0010482523011411",
       "summary": "Computers in Biology and Medicine."
     },
     {
       "name": "Reduced-Order Modeling of Cardiovascular Hemodynamics",
       "publisher": "Biomechanics of the Human Aorta",
       "releaseDate": "2024-05-01",
-      "website": "",
+      "website": "https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780323954846000166",
       "summary": "Chapter in Biomechanics of the Human Aorta."
     },
     {
       "name": "Bifurcation Pressure Loss Model in a Reduced-Order Cardiovascular Flow Model",
       "publisher": "Computing in Cardiology Conference",
       "releaseDate": "2024-09-01",
-      "website": "",
+      "website": "https://cinc.org/archives/2024/pdf/CinC2024-191.pdf",
       "summary": "Computing in Cardiology Conference."
     },
     {
       "name": "Hybrid Physics-Based and Data-Driven Modeling of Vascular Bifurcation Pressure Differences",
       "publisher": "Computers in Biology and Medicine",
       "releaseDate": "2025-06-01",
-      "website": "",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0010482524015051",
       "summary": "Computers in Biology and Medicine."
     },
     {
       "name": "Data-Driven Bifurcation Handling in Physics-Based Reduced-Order Vascular Hemodynamic Models",
       "publisher": "Computer Methods and Programs in Biomedicine",
       "releaseDate": "2026-06-01",
-      "website": "",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S0169260725006455",
       "summary": "Computer Methods and Programs in Biomedicine."
     },
     {
       "name": "Accelerating Patient-Specific Cardiovascular Flow Simulations with Machine Learning-Enhanced Physiologic Reduced Order Models",
-      "publisher": "In preparation",
+      "publisher": "arXiv",
       "releaseDate": "2026-12-01",
-      "website": "",
+      "website": "https://arxiv.org/pdf/2604.01549",
       "summary": "Manuscript in preparation."
     }
   ],
