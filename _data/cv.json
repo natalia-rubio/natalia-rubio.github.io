@@ -227,44 +227,79 @@
   ],
   "presentations": [
     {
-      "name": "Graph neural networks to predict vascular junction pressure losses for reduced-order cardiovascular modeling",
+      "name": "Graph Neural Networks to Predict Vascular Junction Pressure Losses for Reduced-Order Cardiovascular Modeling",
       "event": "Computational Fluids Conference (CFC)",
       "date": "2023-09-01",
       "location": "",
       "description": ""
     },
     {
-      "name": "Data-driven modeling of pressure differentials over vascular junctions",
-      "event": "APS Division of Fluid Dynamics Annual Meeting",
-      "date": "2023-11-19",
-      "location": "",
-      "description": ""
-    },
-    {
-      "name": "Conference presentation",
+      "name": "Bifurcation Pressure Loss Model in a Reduced-Order Cardiovascular Flow Model",
       "event": "Computing in Cardiology (CINC)",
       "date": "2024-05-01",
       "location": "",
       "description": ""
     },
     {
-      "name": "Conference presentation",
+      "name": "Machine learning for reduced-order cardiovascular hemodynamic modeling",
       "event": "SIAM NCC",
       "date": "2024-06-01",
       "location": "",
       "description": ""
     },
     {
-      "name": "Conference presentation",
-      "event": "World Congress on Computational Mechanics (WCCM)",
+      "name": "Data-driven prediction of reduced-order cardiovascular model parameters",
+      "event": "World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM-PANACM)",
       "date": "2024-07-28",
       "location": "",
       "description": ""
     },
     {
-      "name": "Conference presentation",
-      "event": "Computational Methods in Bone and Joint Biomechanics (CMBBE)",
+      "name": "Machine Learning Models of Junction Pressure Losses for Reduced-Order Cardiovascular Modeling",
+      "event": "International Conference on Computational and Mathematical Biomedical Engineering (CMBBE)",
       "date": "2025-06-01",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Machine Learning Models For Junction Pressure Losses For Reduced-Order Cardiovascular Modeling",
+      "event": "CompFest",
+      "date": "2025-07-01",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Modeling Pressure Differences over Junctions in Reduced-Order Simulations of Vascular Trees",
+      "event": "20th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering",
+      "date": "2025-09-04",
+      "location": "Barcelona, Spain",
+      "description": ""
+    },
+    {
+      "name": "Machine Learning Models of Junction Pressure Losses for Reduced-Order Cardiovascular Modeling",
+      "event": "Society of Engineering Science (SES) Annual Meeting",
+      "date": "2025-10-01",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Data-Driven Modeling of Pressure Differentials over Vascular Junctions",
+      "event": "APS Division of Fluid Dynamics Annual Meeting",
+      "date": "2025-11-21",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Graph Neural Networks to Predict Vascular Junction Pressure Losses for Reduced-Order Cardiovascular Modeling",
+      "event": "Computational Fluids Conference (CFC)",
+      "date": "2026-04-28",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Graph Neural Networks to Predict Junction Pressure Losses in Reduced-Order Cardiovascular Modeling",
+      "event": "Computer Methods in Biomechanics and Biomedical Engineering",
+      "date": "2026-05-05",
       "location": "",
       "description": ""
     }
