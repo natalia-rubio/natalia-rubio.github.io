@@ -3,7 +3,6 @@ title: "Accelerating Patient-Specific Cardiovascular Flow Simulations with Machi
 collection: publications
 category: manuscripts
 permalink: /publication/2026-accelerating-patient-specific-cv-flow
-excerpt: "Manuscript in preparation."
 date: 2026-12-01
 venue: "arXiv"
 paperurl: "https://arxiv.org/pdf/2604.01549"

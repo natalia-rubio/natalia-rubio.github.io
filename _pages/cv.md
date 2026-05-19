@@ -16,14 +16,16 @@ Education
 
 Work experience
 ======
-* Hybrid data-driven, physics-based acceleration of cardiovascular flow simulation &mdash; Stanford University (NSF Graduate Research Fellow, Ph.D. candidate), Spring 2021&ndash;Present
-  * Supervisors: Prof. Alison Marsden, Prof. Eric Darve
-  * Use ML to predict resistance and inductance for electric circuit surrogates that replace costly 3D finite-element cardiovascular simulations (minutes on a laptop vs. many hours on HPC).
-  * Train models in JAX, PyTorch, and TensorFlow linking patient-specific vascular geometry to circuit parameters that reproduce high-fidelity 3D behavior; circuit analogs with learned parameters outperform heuristic resistances/inductances by roughly 50% error reduction.
-  * Apply fluid-mechanics-informed modeling to reduce data needs (model form, non-dimensionalization, geometry discretization, feature selection).
-  * Automate pipelines for geometry planning, meshing, and svMultiPhysics simulation for synthetic training data.
-  * Optimize preprocessing, model architecture, and training choices; implement optimization for circuits with nonlinear ML components.
-  * Maintain the [Vascular Model Repository](https://www.vascularmodel.com/); collaborate on GitHub; mentor junior students; organize [SimVascular](https://simvascular.github.io/) tutorials.
+* Hybrid Data-driven Physics-Based Acceleration of Cardiovascular Flow Simulation &mdash; Stanford University (NSF Fellow, Ph.D. Candidate), Spring 2021&ndash;Present
+  * Prof. Alison Marsden, Prof. Eric Darve
+  * Used ML techniques to learn resistance and inductance values for 0D &ldquo;electric circuit&rdquo; models of patient-specific cardiovascular flows. These act as lightweight surrogates (&lt;1 min on personal laptop) for costly, high-fidelity 3D finite-element simulations (&gt;10 hours on 24+ cores of an HPC cluster).
+  * Reduced error by over 50% compared to existing heuristics for complex, patient-specific anatomies including aortic, aortofemoral and pulmonary vasculature using learned circuit values.
+  * Compiled functionality into a Python package for use in other lab members&rsquo; workflows.
+  * Implemented and trained neural network models in JAX, PyTorch, and TensorFlow to learn the relationship between vascular geometry and circuit values.
+  * Implemented automated pipelines (geometry planning, mesh generation, high-fidelity 3D fluid simulation with open-source svMultiPhysics solver on HPC clusters) to generate large, synthetic, high-fidelity training datasets for ML.
+  * Leveraged physiological and fluid mechanics insights into model design to reduce training data demands in a data-scarce landscape, e.g. model form, physics-based non-dimensionalization scaling, discretization of vascular geometry, feature selection, data pre-processing.
+  * Implemented novel optimization framework to solve electric circuit models complicated by nonlinear ML components.
+  * Maintained the [Vascular Model Repository](https://www.vascularmodel.com/) database and website; collaborate on shared codebases via GitHub; mentor junior students; organize tutorials for the group&rsquo;s software ([SimVascular](https://simvascular.github.io/)).
 
 * Implementation and comparison of graph neural network architectures &mdash; Pasteur Labs (Simulation Intelligence Intern), Summer 2024
   * Supervisor: Marta D&rsquo;Elia, Ph.D.
