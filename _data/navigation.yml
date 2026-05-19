@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Defense"
+    url: /defense/
+
   - title: "Talks"
     url: /talks/
 
